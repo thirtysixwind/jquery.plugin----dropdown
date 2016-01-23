@@ -1,7 +1,7 @@
 # Usage
 `$(selector).dropdown(options);`
 
-options默认值
+options默认值：
 ```javascript
 {
 	content : [],

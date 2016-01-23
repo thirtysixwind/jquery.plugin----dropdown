@@ -1,5 +1,6 @@
 # Usage
 `$(selector).dropdown(options);`
+
 options默认值
 ```javascript
 {
